@@ -1,0 +1,39 @@
+.out{
+    position: fixed; /* 추가된 코드 */
+    top: 0; /* 추가된 코드 */
+    left: 0; /* 추가된 코드 */
+    width: 100%; /* 추가된 코드 */
+    height: 100%; /* 추가된 코드 */
+    flex-direction: column;
+}
+.base{
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  background-color: aqua;
+}
+.main_header {
+  background-color:#a2a2f9 ;
+  display: flex;
+  justify-content:space-between;
+  align-items: center;
+  height: 40px;
+  padding: 0 50px;
+}
+.footer_b{
+  background-color: #a2a2f9;
+  height: 20%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.main_a{
+  height: 80%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.fiel{
+  height: 100%;
+}

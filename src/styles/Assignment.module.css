@@ -1,0 +1,25 @@
+/* Assignment.module.css */
+.base {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    flex-direction: column;
+  }
+  
+  .footer_b {
+    background-color: #a2a2f9;
+    cursor: pointer;
+    height: 10vh;
+  }
+  
+  .main_a {
+    height: 90vh;
+  }
+  
+  .art {
+    display: flex;
+    flex-direction: column;
+  }
+  

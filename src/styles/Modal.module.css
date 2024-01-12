@@ -1,0 +1,26 @@
+/* Modal.module.css */
+.modalbutton {
+    display: flex;
+  }
+  
+  .buttons {
+    width: 50%;
+    height: 30vh;
+    border: 1px solid #a2a2f9;
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .input4 {
+    width: 50%;
+    height: 30vh;
+    border: 1px solid #a2a2f9;
+  }
+  
+  .background1 {
+    background-color: #a2a2f9;
+    height: 100%;
+    line-height: 30vh;
+    text-align: center;
+  }
+  

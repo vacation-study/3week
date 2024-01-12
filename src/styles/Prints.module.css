@@ -1,0 +1,15 @@
+/* Prints.module.css */
+.mapprint {
+    display: flex;
+  }
+  
+  .prints {
+    margin-left: 30px; /* 이 부분은 필요에 따라 조절하십시오. */
+  }
+  
+  .background2 {
+    background-color: #a2a2f9;
+    height: 60vh;
+    width: 100%;
+  }
+  
